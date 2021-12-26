@@ -1,11 +1,11 @@
 # main links links
 main:
     
+  - title: "Blogs"
+    url: /blogs/
+    
   - title: "CV"
     url: /files/cv2021.pdf
-    
-  - title: "Blogs"
-    url: /blogs/    
     
   #- title: "Guide"
   #  url: /markdown/

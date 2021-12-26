@@ -1,1 +1,1 @@
-<embed src="https://nvnhat95.github.io/files/cv2021.pdf" type="application/pdf" width="1000px" height="1000px" />
+<embed src="https://nvnhat95.github.io/files/cv2021.pdf" width="600" height="700" type='application/pdf'>

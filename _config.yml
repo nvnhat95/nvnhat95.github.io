@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Viet Nhat Nguyen"
   avatar           : "me.png"
-  bio              : "Learner"
+  bio              : "Machine Learner"
   location         : "Earth"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MnV44YoAAAAJ&hl=en"
-  email            :
+  email            : "nguyenvietnhat95@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -1,1 +1,1 @@
-<embed src="{{ site.baseurl }}/files/cv2021.pdf" width="600" height="700" type='application/pdf'>
+<embed src="https://nvnhat95.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />

@@ -16,7 +16,10 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv2021.pdf
+    
+  - title: "Blogs"
+    url: /blogs/    
     
   #- title: "Guide"
   #  url: /markdown/

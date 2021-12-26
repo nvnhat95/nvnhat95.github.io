@@ -220,7 +220,7 @@ defaults:
       share: true
       comments: true
       
-  # _blog
+  # _blogs
   - scope:
       path: ""
       type: blogs

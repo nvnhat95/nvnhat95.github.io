@@ -17,4 +17,4 @@ Between the time from bachelor's graduation to master's starting, I worked as a 
 During my master's studies I did internships at some research institutes ([FBK](https://ict.fbk.eu/units/hlt-mt/join-us/) and [Inria](https://team.inria.fr/perception/alumni/viet-nhat-nguyen/)), mostly focusing on Deep Learning for NLP and speech processing.
 After master's graduation I was a contractor remotely working for [MICrONS program](http://www.ninai.org/) as a Machine Learning engineer on the topic of utilizing neural data to improve machine learning robustness.
 
-I like to write code cracking things automatically. When I don't sit in front of computer, you might see me either gardening, reading books, enjoying musics, practicing ping-pong, or simply roaming around.
+I like to write code cracking things automatically. When I don't sit in front of computer, you might see me either gardening, reading books, enjoying music, practicing ping-pong, or simply roaming around.
